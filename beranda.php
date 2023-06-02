@@ -89,7 +89,7 @@
     </section>
 
     <section class="footer" id="footer">
-        <p class="">Copyright©2023 All rights reserved | Made by Haris Butuh Kaum Hawa</p>
+        <p class="">Copyright©2023 All rights reserved | Made by Brilliahib</p>
     </section>
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <script>
