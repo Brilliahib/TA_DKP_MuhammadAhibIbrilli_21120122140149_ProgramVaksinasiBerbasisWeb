@@ -42,7 +42,7 @@
             <div class="row" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                 <img src="img/people1.png" alt="">
                 <p class="row-text mt-4 fw-bold">
-                Penularan dari manusia ke manusia lewat droplet (partikel air liur) ketika penderita bersin atau batuk.
+                Penularan dari manusia ke manusia lewat droplet (air liur) ketika penderita bersin atau batuk.
                 </p>
             </div>
 
